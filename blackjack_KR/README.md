@@ -11,7 +11,7 @@
 
 
 - 행사에 도착하기 전에 귀하의 Trial 계정에 대한 액세스 권한을 얻으십시오. 평가판 계정은 [Try it](http://cloud.oracle.com/tryit) 에서 얻을 수 있습니다. 
-- Trial       참고하세요
+- Trial 신청에 대한 자세한 한글 문서는 [여기](http://www.oracloud.kr/post/oracle_cloud_reg/)를 참고하세요.
 
 ## 둘째, 클라이언트 환경 구성
 
